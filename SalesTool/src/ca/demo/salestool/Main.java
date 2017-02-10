@@ -1,0 +1,19 @@
+package ca.demo.salestool;
+
+public class Main {
+	public static void main(String[] args){
+		SalesData data = new SalesData();//second attempt to commit this file
+		
+		displayGreeting();
+		data.display();
+		
+	}
+	
+	private static void displayGreeting(){
+		System.out.println("HELLO HAPPY SALES PEOPLE!");
+		System.out.println("THIS APP SHOWS SALES DATA");
+		
+		System.out.println("Test 1");
+	}
+
+}
