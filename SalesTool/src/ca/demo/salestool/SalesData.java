@@ -1,7 +1,7 @@
 package ca.demo.salestool;
 
 public class SalesData {
-	int data[] = {0, 4, 42, 57, 90, 100, 67};
+	int data[] = {0, 4, 42, 57, 90, 100, 67, 69};
 	
 	public void display(){
 		//add three more headers
