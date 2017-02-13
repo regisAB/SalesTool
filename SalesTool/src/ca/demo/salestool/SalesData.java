@@ -7,6 +7,7 @@ public class SalesData {
 	public void display(){
 		System.out.println("Header here Data second change here: ");
 		//add three more headers
+		System.out.println("Programmer 2 header here Data: ");
 		System.out.println("Header one added Data: ");
 		System.out.println("Header two  added Data: ");
 		System.out.println("Header three added Data: ");
