@@ -11,6 +11,8 @@ public class SalesData {
 		System.out.println("Header two  added Data: ");
 		System.out.println("Header three added Data: ");
 		System.out.println("Header here added Data: ");
+		System.out.println("Header monday1 added Data: ");
+		System.out.println("Header monday2 added Data: ");
 		for(int i = 0; i < data.length; i++){
 			System.out.println("Next value: "+ data[i]);///
 		}
