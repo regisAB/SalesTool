@@ -17,6 +17,7 @@ public class SalesData {
 		System.out.println("Header monday3 added Data: ");
 		System.out.println("Header monday4 added Data: ");
 		System.out.println("Header monday5 added Data: ");
+	    System.out.println("Header monday10 added Data: ");
 		System.out.println("Header wednesday1 added Data: ");
 		System.out.println("Header wednesday2 added Data: ");
 		System.out.println("Header wednesday3 added Data: ");
